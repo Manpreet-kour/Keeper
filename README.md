@@ -22,7 +22,7 @@ Clone the repository:
 
 Copy code
 
-git clone https://github.com/your-username/keeper-app.git
+git clone (https://github.com/Manpreet-kour/Keeper.git)
 
 cd keeper-app
 Install dependencies:
